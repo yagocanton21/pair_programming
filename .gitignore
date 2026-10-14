@@ -1,0 +1,15 @@
+# Bytecode e caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários do Sistema Operacional (Windows / Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Bancos de dados
+*.db
+*.sqlite
+*.sqlite3
